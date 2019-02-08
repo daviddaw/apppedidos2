@@ -3,7 +3,7 @@
 // echo"<form action='aca2.php' >"
 
 $servername = "10.129.157.212";
-$username = "root";
+$username =  "root";
 $password = "rootroot";
 $dbname = "pedidos";
 
